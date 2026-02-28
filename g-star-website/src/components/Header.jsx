@@ -5,7 +5,7 @@ const Header = () => (
         G·STAR
       </text>
     </svg> */}
-    <img src="src/assets/G-STAR_LOGO_BLACK.svg" alt="G-Star Logo" width="220" height="44" />
+    <img src="https://raw.githubusercontent.com/AnmolSharma29/G-Star-Website/bef0b65c4ebdcdc1cf62fe1d260055c8c185db82/g-star-website/src/assets/G-STAR_LOGO_BLACK.svg" alt="G-Star Logo" width="220" height="44" />
   </header>
 );
 
